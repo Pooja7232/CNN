@@ -1,0 +1,10 @@
+data/
+models/
+
+__pycache__/
+*.pyc
+
+*.h5
+*.keras
+*.pkl
+*.csv
